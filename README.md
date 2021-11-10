@@ -1,0 +1,1 @@
+Creating the Conways Game of Life with C++ so that each generation will be output to the command prompt and allow users to select the timing interval between generations 
